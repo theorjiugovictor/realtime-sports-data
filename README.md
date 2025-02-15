@@ -7,6 +7,7 @@ A serverless notification system built on AWS that delivers real-time NBA game u
 ```
 EventBridge (Trigger) → Lambda (Processing) → SNS (Notification Delivery)
 ```
+![diagram](https://github.com/user-attachments/assets/1e54f73a-27d3-4838-8bab-e3137ec4987d)
 
 The system follows a simple serverless workflow:
 1. EventBridge triggers the Lambda function on a scheduled basis
