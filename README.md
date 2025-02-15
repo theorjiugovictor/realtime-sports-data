@@ -42,7 +42,7 @@ nba-notifications/
 
 1. **Clone the Repository**
 ```bash
-git clone https://github.com/your-username/nba-notifications.git
+git clone https://github.com/theorjiugovictor/nba-notifications.git
 cd nba-notifications
 ```
 
